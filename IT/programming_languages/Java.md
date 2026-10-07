@@ -25,3 +25,7 @@ Some may require you to create an account for free access.  These will be denote
     - Designing Java programs with UML
 - https://refactoring.guru/design-patterns/java 
     - Java design patterns
+
+## Spring Boot alternative
+
+- https://www.dropwizard.io/en/stable/getting-started.html
