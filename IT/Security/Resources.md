@@ -41,9 +41,19 @@ This page contains various resources for learning, or practicing security issues
 ## Threat analysis
 
 - DREAD
-    - https://medium.com/@Readsec/risk-assessment-using-the-dread-framework-a-case-study-on-cve-2025-21298-2dc8c852b473
+    - Overview of DREAD modeling
+        - https://threat-modeling.com/dread-threat-modeling/
+    - DREAD Threat Modeling Methodology
+        - https://www.practical-devsecops.com/dread-threat-modeling/
+    - Risk Assessment Using the DREAD Framework: A Case Study on CVE-2025–21298
+        - https://medium.com/@Readsec/risk-assessment-using-the-dread-framework-a-case-study-on-cve-2025-21298-2dc8c852b473
 - STRIDE
-    - https://imgs.search.brave.com/W-VZ2mrNs-WUhP3tb-zXYmtpmFBKxvsaO3I76Yb-sYU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/M2JjODg1ZGQ2MGE4/ZTA3NjJlZWRiM2Iv/Njk4NjUxMThmYzUz/NzFlM2M2OWFlNjg5/XzY5ODY0NDk3Njc2/Y2QyODkxY2IxYzcy/YS0xNzcwNDA5MDY5/NTUwLmpwZw
+    - Good tutorial and example of conducting STRIDE analysis
+        - https://www.practical-devsecops.com/what-is-stride-threat-model/
+    - The OWASP documentation on STRIDE
+        - https://community.owasp.org/Threat_Modeling_Process
+    - 6 categories of cybersecurity threats and their migration strategies
+        - https://imgs.search.brave.com/W-VZ2mrNs-WUhP3tb-zXYmtpmFBKxvsaO3I76Yb-sYU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/M2JjODg1ZGQ2MGE4/ZTA3NjJlZWRiM2Iv/Njk4NjUxMThmYzUz/NzFlM2M2OWFlNjg5/XzY5ODY0NDk3Njc2/Y2QyODkxY2IxYzcy/YS0xNzcwNDA5MDY5/NTUwLmpwZw
 
 ## Tools
 
